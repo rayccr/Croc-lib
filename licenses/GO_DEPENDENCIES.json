@@ -1,0 +1,363 @@
+[
+  {
+    "module": "filippo.io/edwards25519",
+    "version": "v1.2.0",
+    "licenses": [
+      "licenses/dependencies/filippo.io/edwards25519@v1.2.0/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/cespare/xxhash/v2",
+    "version": "v2.3.0",
+    "licenses": [
+      "licenses/dependencies/github.com/cespare/xxhash/v2@v2.3.0/LICENSE.txt"
+    ]
+  },
+  {
+    "module": "github.com/coder/websocket",
+    "version": "v1.8.15",
+    "licenses": [
+      "licenses/dependencies/github.com/coder/websocket@v1.8.15/LICENSE.txt"
+    ]
+  },
+  {
+    "module": "github.com/creachadair/msync",
+    "version": "v0.10.1",
+    "licenses": [
+      "licenses/dependencies/github.com/creachadair/msync@v0.10.1/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/dblohm7/wingoes",
+    "version": "v0.0.0-20260526185140-fb298caac7ca",
+    "licenses": [
+      "licenses/dependencies/github.com/dblohm7/wingoes@v0.0.0-20260526185140-fb298caac7ca/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/denisbrodbeck/machineid",
+    "version": "v1.0.1",
+    "licenses": [
+      "licenses/dependencies/github.com/denisbrodbeck/machineid@v1.0.1/LICENSE.md"
+    ]
+  },
+  {
+    "module": "github.com/fxamacker/cbor/v2",
+    "version": "v2.9.6",
+    "licenses": [
+      "licenses/dependencies/github.com/fxamacker/cbor/v2@v2.9.6/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/gaissmai/bart",
+    "version": "v0.30.0",
+    "licenses": [
+      "licenses/dependencies/github.com/gaissmai/bart@v0.30.0/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/go-json-experiment/json",
+    "version": "v0.0.0-20260820222146-c27c302e5fc3",
+    "licenses": [
+      "licenses/dependencies/github.com/go-json-experiment/json@v0.0.0-20260820222146-c27c302e5fc3/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/golang/groupcache",
+    "version": "v0.0.0-20241129210726-2c02b8208cf8",
+    "licenses": [
+      "licenses/dependencies/github.com/golang/groupcache@v0.0.0-20241129210726-2c02b8208cf8/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/google/btree",
+    "version": "v1.1.3",
+    "licenses": [
+      "licenses/dependencies/github.com/google/btree@v1.1.3/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/hdevalence/ed25519consensus",
+    "version": "v0.2.0",
+    "licenses": [
+      "licenses/dependencies/github.com/hdevalence/ed25519consensus@v0.2.0/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/kalafut/imohash",
+    "version": "v1.1.1",
+    "licenses": [
+      "licenses/dependencies/github.com/kalafut/imohash@v1.1.1/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/klauspost/compress",
+    "version": "v1.20.1",
+    "licenses": [
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/gzhttp/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/s2/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/snappy/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/internal/lz4ref/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/internal/snapref/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/s2/cmd/internal/filepathx/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/s2/cmd/internal/readahead/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/snappy/xerial/LICENSE",
+      "licenses/dependencies/github.com/klauspost/compress@v1.20.1/zstd/internal/xxhash/LICENSE.txt"
+    ]
+  },
+  {
+    "module": "github.com/magisterquis/connectproxy",
+    "version": "v0.0.0-20200725203833-3582e84f0c9b",
+    "licenses": [
+      "licenses/dependencies/github.com/magisterquis/connectproxy@v0.0.0-20200725203833-3582e84f0c9b/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/mattn/go-colorable",
+    "version": "v0.1.16",
+    "licenses": [
+      "licenses/dependencies/github.com/mattn/go-colorable@v0.1.16/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/mattn/go-isatty",
+    "version": "v0.0.24",
+    "licenses": [
+      "licenses/dependencies/github.com/mattn/go-isatty@v0.0.24/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/minio/highwayhash",
+    "version": "v1.0.4",
+    "licenses": [
+      "licenses/dependencies/github.com/minio/highwayhash@v1.0.4/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/mitchellh/colorstring",
+    "version": "v0.0.0-20190213212951-d06e56a500db",
+    "licenses": [
+      "licenses/dependencies/github.com/mitchellh/colorstring@v0.0.0-20190213212951-d06e56a500db/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/mitchellh/go-ps",
+    "version": "v1.0.0",
+    "licenses": [
+      "licenses/dependencies/github.com/mitchellh/go-ps@v1.0.0/LICENSE.md"
+    ]
+  },
+  {
+    "module": "github.com/pires/go-proxyproto",
+    "version": "v0.15.0",
+    "licenses": [
+      "licenses/dependencies/github.com/pires/go-proxyproto@v0.15.0/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/rivo/uniseg",
+    "version": "v0.4.7",
+    "licenses": [
+      "licenses/dependencies/github.com/rivo/uniseg@v0.4.7/LICENSE.txt"
+    ]
+  },
+  {
+    "module": "github.com/sabhiram/go-gitignore",
+    "version": "v0.0.0-20210923224102-525f6e181f06",
+    "licenses": [
+      "licenses/dependencies/github.com/sabhiram/go-gitignore@v0.0.0-20210923224102-525f6e181f06/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/schollz/pake/v3",
+    "version": "v3.2.0",
+    "licenses": [
+      "licenses/dependencies/github.com/schollz/pake/v3@v3.2.0/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/schollz/peerdiscovery",
+    "version": "v1.7.6",
+    "licenses": [
+      "licenses/dependencies/github.com/schollz/peerdiscovery@v1.7.6/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/schollz/progressbar/v3",
+    "version": "v3.19.1",
+    "licenses": [
+      "licenses/dependencies/github.com/schollz/progressbar/v3@v3.19.1/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/skip2/go-qrcode",
+    "version": "v0.0.0-20200617195104-da1b6568686e",
+    "licenses": [
+      "licenses/dependencies/github.com/skip2/go-qrcode@v0.0.0-20200617195104-da1b6568686e/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/tailscale/certstore",
+    "version": "v0.1.1-0.20260409135935-3638fb84b77d",
+    "licenses": [
+      "licenses/dependencies/github.com/tailscale/certstore@v0.1.1-0.20260409135935-3638fb84b77d/LICENSE.md"
+    ]
+  },
+  {
+    "module": "github.com/tailscale/go-winio",
+    "version": "v0.0.0-20231025203758-c4f33415bf55",
+    "licenses": [
+      "licenses/dependencies/github.com/tailscale/go-winio@v0.0.0-20231025203758-c4f33415bf55/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/tailscale/hujson",
+    "version": "v0.0.0-20260727124030-b80ff77dac4f",
+    "licenses": [
+      "licenses/dependencies/github.com/tailscale/hujson@v0.0.0-20260727124030-b80ff77dac4f/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/tailscale/web-client-prebuilt",
+    "version": "v0.0.0-20260917222731-e0ed2d0d0fea",
+    "licenses": [
+      "licenses/dependencies/github.com/tailscale/web-client-prebuilt@v0.0.0-20260917222731-e0ed2d0d0fea/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/tailscale/wireguard-go",
+    "version": "v0.0.0-20260928213032-417aef361226",
+    "licenses": [
+      "licenses/dependencies/github.com/tailscale/wireguard-go@v0.0.0-20260928213032-417aef361226/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/tscholl2/siec",
+    "version": "v0.0.0-20240310163802-c2c6f6198406",
+    "licenses": [
+      "licenses/dependencies/github.com/tscholl2/siec@v0.0.0-20240310163802-c2c6f6198406/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/twmb/murmur3",
+    "version": "v1.2.1",
+    "licenses": [
+      "licenses/dependencies/github.com/twmb/murmur3@v1.2.1/LICENSE"
+    ]
+  },
+  {
+    "module": "github.com/x448/float16",
+    "version": "v0.8.4",
+    "licenses": [
+      "licenses/dependencies/github.com/x448/float16@v0.8.4/LICENSE"
+    ]
+  },
+  {
+    "module": "go4.org/mem",
+    "version": "v0.0.0-20240501181205-ae6ca9944745",
+    "licenses": [
+      "licenses/dependencies/go4.org/mem@v0.0.0-20240501181205-ae6ca9944745/LICENSE"
+    ]
+  },
+  {
+    "module": "go4.org/netipx",
+    "version": "v0.0.0-20260823151212-3075585bcbeb",
+    "licenses": [
+      "licenses/dependencies/go4.org/netipx@v0.0.0-20260823151212-3075585bcbeb/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/crypto",
+    "version": "v0.58.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/crypto@v0.58.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/exp",
+    "version": "v0.0.0-20260908205506-85c1c2202aba",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/exp@v0.0.0-20260908205506-85c1c2202aba/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/net",
+    "version": "v0.61.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/net@v0.61.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/sync",
+    "version": "v0.24.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/sync@v0.24.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/sys",
+    "version": "v0.49.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/sys@v0.49.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/term",
+    "version": "v0.47.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/term@v0.47.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/text",
+    "version": "v0.43.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/text@v0.43.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.org/x/time",
+    "version": "v0.16.0",
+    "licenses": [
+      "licenses/dependencies/golang.org/x/time@v0.16.0/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.zx2c4.com/wintun",
+    "version": "v0.0.0-20230126152724-0fa3db229ce2",
+    "licenses": [
+      "licenses/dependencies/golang.zx2c4.com/wintun@v0.0.0-20230126152724-0fa3db229ce2/LICENSE"
+    ]
+  },
+  {
+    "module": "golang.zx2c4.com/wireguard/windows",
+    "version": "v1.1.1",
+    "licenses": [
+      "licenses/dependencies/golang.zx2c4.com/wireguard/windows@v1.1.1/COPYING"
+    ]
+  },
+  {
+    "module": "gvisor.dev/gvisor",
+    "version": "v0.0.0-20260926034703-66ed76bcb72f",
+    "licenses": [
+      "licenses/dependencies/gvisor.dev/gvisor@v0.0.0-20260926034703-66ed76bcb72f/LICENSE"
+    ]
+  },
+  {
+    "module": "tailscale.com",
+    "version": "v1.104.1",
+    "licenses": [
+      "licenses/dependencies/tailscale.com@v1.104.1/LICENSE",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/android.md",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/apple.md",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/licenses.go",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/README.md",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/tailscale.md",
+      "licenses/dependencies/tailscale.com@v1.104.1/licenses/windows.md",
+      "licenses/dependencies/tailscale.com@v1.104.1/derp/xdp/headers/LICENSE.BSD-2-Clause",
+      "licenses/dependencies/tailscale.com@v1.104.1/tempfork/spf13/cobra/LICENSE.txt",
+      "licenses/dependencies/tailscale.com@v1.104.1/tstest/tailmac/LICENSE/LICENSE.txt"
+    ]
+  }
+]
